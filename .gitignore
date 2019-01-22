@@ -1,0 +1,6 @@
+/node_modules
+/.vscode
+/.prettierrc
+/dist
+specs/__coverage__/
+specs/__snapshots__/
