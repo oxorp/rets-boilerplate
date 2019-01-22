@@ -10,11 +10,16 @@
 Add store management as your app grows and you need it. Tired of Redux? Give **[MobX](mobx.js.org)**  a shot!   
 Add **[TSLint](https://palantir.github.io/tslint)** when developing in a team.
 
-
+### Usage
+```
+git clone --depth=1 --branch=master git@github.com:oxorp/rets-boilerplate.git <YourDirectory>
+rm -rf !$/.git
+npm install
+```
 ### Commands
 
 ```
-$npm run dev
-$npm run prod
-$npm run test
+npm run dev
+npm run prod
+npm run test
 ```
